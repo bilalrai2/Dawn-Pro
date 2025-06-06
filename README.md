@@ -23,7 +23,7 @@ Dawn Validator BOT
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/Dawn-BOT.git
+   git clone https://github.com/bilalrai2/Dawn-Pro.git
    ```
    ```bash
    cd Dawn-BOT
