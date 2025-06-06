@@ -1,4 +1,4 @@
-# Dawn Validator BOT
+8# Dawn Validator BOT
 Dawn Validator BOT
 
 - Register Here : [Dawn Validator](https://dashboard.dawninternet.com/signup)
@@ -26,7 +26,7 @@ Dawn Validator BOT
    git clone https://github.com/bilalrai2/Dawn-Pro.git
    ```
    ```bash
-   cd Dawn-BOT
+   cd Dawn-Pro
    ```
 
 2. **Install Requirements:**
