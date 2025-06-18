@@ -34,7 +34,7 @@ Dawn Validator BOT
 
 ## Configuration
 
-- **accounts.json:** You will find the file `Tokens.json` inside the project directory. Make sure `Tokens.json` contains data that matches the format expected by the script. Here are examples of file formats:
+- **accounts.json:** You will find the file `tokens.json` inside the project directory. Make sure `tokens.json` contains data that matches the format expected by the script. Here are examples of file formats:
   ```bash
   [
       {
