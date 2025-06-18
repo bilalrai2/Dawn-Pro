@@ -8,8 +8,6 @@ Dawn Validator BOT
 ## Features
 
   - Auto Get Account Information
-  - Auto Run With [Free Proxyscrape](https://proxyscrape.com/free-proxy-list) Proxy - `Choose 1`
-  - Auto Run With Private Proxy - `Choose 2`
   - Auto Run Without Proxy - `Choose 3`
   - Auto Rotate Invalid Proxies - `y` or `n`
   - Auto Send Keep-Alive Every 10 Minutes
@@ -36,7 +34,7 @@ Dawn Validator BOT
 
 ## Configuration
 
-- **accounts.json:** You will find the file `accounts.json` inside the project directory. Make sure `accounts.json` contains data that matches the format expected by the script. Here are examples of file formats:
+- **accounts.json:** You will find the file `Tokens.json` inside the project directory. Make sure `Tokens.json` contains data that matches the format expected by the script. Here are examples of file formats:
   ```bash
   [
       {
